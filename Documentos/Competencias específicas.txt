@@ -1,0 +1,13 @@
+Competencias específicas:
+
+Modelado computacional
+
+Genera modelos de los fenómenos utilizando metodologías y herramientas computacionales, a fin de analizar 
+información y procesos en diversos dominios de aplicación, conforme a estándares internacionales.
+
+Implementación de redes
+
+Implementa infraestructura de redes mediante la instalación y configuración de dispositivos para establecer
+ la comunicación de datos entre sistemas en organizaciones de acuerdo con normas y estándares nacionales e internacionales.
+
+
