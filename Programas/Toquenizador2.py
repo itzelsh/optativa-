@@ -14,7 +14,14 @@ for token in tokens:
  
 # Aquí, nuestra lista de tokens se llama "tokens"
 palabras_total=len(tokens)
-
 print(palabras_total)
 
-print(palabras_total)
+#Aqui, nuestra lista de tokens se llama "tokens"
+tokens_conjunto=set(tokens)
+
+palabras_totales=len(tokens)
+palabras_diferentes=len(tokens_conjunto)
+
+riqueza_lexica=palabras_diferentes/palabras_totales
+print(riqueza_lexica)
+#Si funciona
