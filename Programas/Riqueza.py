@@ -21,3 +21,5 @@ print(conteo_individual)
 palabras_totales=len(tokens)
 porcentaje=100*conteo_individual/palabras_totales
 print(porcentaje," %")
+
+#con este programa se saca el porcetajee
