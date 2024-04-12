@@ -9,8 +9,4 @@ semana_laboral
 #append es agregar un  elemento al final de la lista
 #index indica donde esta la palabra en la lista el numero
 #len es la longitud de la palabra
-<<<<<<< HEAD
-#remove es eliminar el elemento de la lista
-=======
-#remove es eliminar el elemento de la lista
->>>>>>> adbc8186bf38064798d74a140db0b7f5a4b4ee8c
+
